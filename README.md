@@ -7,51 +7,51 @@ Contiene las exposiciones vistas en clases.
 <img src="Imagenes/Pantalla 7 elementos.jpeg" alt="RGB" width="400">
 
 ### Componentes:
-- Arduino UNO.
-- LEDs individuales (uno rojo, uno verde, y uno azul).
-- Resistencias de 220Ω (una para cada LED).
-- Cables de conexión.
-
 ### Conexiones:
-1. Identifica las patas del LED individual:
-    - Ánodo (positivo): La pata más larga del LED, que conectaremos al pin.
-    - Cátodo (negativo): La pata más corta del LED, una resistencia de 220Ω que conectaremos al GND.
-2. Conexiones para cada LED:
-    - LED Rojo:
-        - Conecta el ánodo del LED al pin digital PWM 11 de Arduino.
-        - Conecta el cátodo conectado a una resistencia de 220Ω  y al GND de Arduino.
-    - LED Verde:
-        - Conecta el ánodo del LED al pin digital PWM 12 de Arduino.
-        - Conecta el cátodo conectado a una resistencia de 220Ω  y al GND de Arduino.
-    - LED Azul:
-        - Conecta el ánodo del LED al pin digital PWM 13 de Arduino.
-        - Conecta el cátodo conectado a una resistencia de 220Ω  y al GND de Arduino.
 
 
+## Joystick
+### Practica:
+* 
+<img src="Imagenes/Joystick.jpeg" alt="RGB" width="400">
+<img src="Imagenes/Joystick2.jpeg" alt="RGB" width="400">
+
+### Componentes:
+### Conexiones:
 
 
+## Botones y leds
+### Practica:
+* 
+<img src="Imagenes/Botones y leds.jpeg" alt="RGB" width="400">
+
+### Componentes:
+### Conexiones:
 
 
-Pantalla 7 segmentos
-Practica:
-Componentes:
+## Teclado membrana
+### Practica:
+* 
+<img src="Imagenes/Membrana.jpeg" alt="RGB" width="400">
+<img src="Imagenes/Menbrana2.jpeg" alt="RGB" width="400">
 
-Joystick
-Practica:
-Componentes:
+### Componentes:
+### Conexiones:
 
-Botones y leds
-Practica:
-Componentes:
 
-Teclado membrana
-Practica:
-Componentes:
+## Servo motor
+### Practica:
+* 
+<img src="Imagenes/Servo motor.png" alt="RGB" width="400">
 
-Servo motor
-Practica:
-Componentes:
+### Componentes:
+### Conexiones:
 
-Buzzer
-Practica:
-Componentes:    
+
+## Buzzer
+### Practica:
+* 
+<img src="Imagenes/Buzzer.png" alt="RGB" width="400">
+
+### Componentes:
+### Conexiones:
