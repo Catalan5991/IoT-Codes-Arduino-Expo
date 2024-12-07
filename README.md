@@ -4,7 +4,7 @@ Contiene las exposiciones vistas en clases.
 ## Pantalla 7 segmentos
 ### Practica:
 * 
-<img src="Imagenes/Pantalla 7 elementos.jpeg" alt="RGB" width="750">
+<img src="Imagenes/Pantalla 7 elementos.jpeg" alt="RGB" width="400">
 
 ### Componentes:
 - Arduino UNO.
